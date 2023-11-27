@@ -1,6 +1,7 @@
 # celestia-theme
 Celestia WordPress Theme (based on underscores starter theme).<br>
 **The theme is still under development.<br><br>
+View here: <a href="https://sankalpb.dev/celestia/">Celestia Theme</a><br><br>
 Things done:
 <ul>
   <li>Added custom css for the layouts.</li>
